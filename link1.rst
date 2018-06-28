@@ -1,4 +1,4 @@
-`Go Back <index.rst>`_
+`Go Back <#links>`_
 
 .. figure::  toylink.jpg
    :align:   center
