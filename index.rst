@@ -5,3 +5,9 @@ this is an example page
 `link2 <link2.rst>`_
 
 `link3 <link3.rst>`_
+
+
+.. figure::  toylink.jpg
+   :align:   center
+
+* Im blue daba dee daba die
