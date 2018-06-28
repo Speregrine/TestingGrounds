@@ -1,4 +1,4 @@
-`Go Back <#links>`_
+`Go Back </>`_
 
 .. figure::  toylink.jpg
    :align:   center
