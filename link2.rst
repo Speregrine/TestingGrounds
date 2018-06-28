@@ -1,4 +1,4 @@
-`Go Back <index.rst>`_
+`Go Back </>`_
 
 .. figure::  cartoonlink.jpg
    :align:   center
