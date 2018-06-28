@@ -1,7 +1,6 @@
 this is an example page
 
 
-* :ref:`links`
 
 `link1 <link1.html>`_
 
