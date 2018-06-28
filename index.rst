@@ -1,11 +1,11 @@
 this is an example page
 
-`link1 <toylink.jpg>`_
+.. _links:
 
-`link2 <link2.rst>`_
+.. toctree::
+   :maxdepth: 2
+   :caption: Links
 
-`link3 <link3.rst>`_
-
-
-
-
+   link1
+   link2
+   link3.rst
