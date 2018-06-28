@@ -3,7 +3,7 @@ this is an example page
 
 * :ref:`links`
 
-`link1 <link1>`_
+`link1 <link1.html>`_
 
 
 `link2 <link2.rst>`_
