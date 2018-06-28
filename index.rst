@@ -3,6 +3,14 @@ this is an example page
 
 * :ref:`links`
 
+`link1 <link1>`_
+
+
+`link2 <link2.rst>`_
+
+
+`link3 <link3.rst>`_
+
 .. _links:
 
 .. toctree::
